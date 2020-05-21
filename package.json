@@ -1,0 +1,35 @@
+{
+  "name": "big-copy",
+  "version": "1.0.0",
+  "description": "Huge files & directory copier",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreamsaviors/big-copy.git"
+  },
+  "author": {
+    "name": "Dreamsavior",
+    "email": "dreamsavior@gmail.com",
+    "url": "https://dreamsavior.net"
+  },  
+  "keywords": [
+    "fs",
+    "file",
+    "big file",
+    "big-copy",
+    "copy",
+    "directory",
+	"asynchronous",
+    "promise",
+    "recursive"
+  ],
+  "author": "Dreamsavior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dreamsaviors/big-copy/issues"
+  },
+  "homepage": "https://github.com/Dreamsaviors/big-copy#readme"
+}
